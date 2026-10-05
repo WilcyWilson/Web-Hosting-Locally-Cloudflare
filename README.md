@@ -1,6 +1,7 @@
 # Registering .com.np Domain name in Nepal for free
 
 - Register your email in [Official Nepal Domain Registry](https://register.com.np/)
+
 - Apply new domain and it should be your name like wilsonshrestha.com.np (*Note: You can't use numbers or special character and your domain name name should match your actual name in the Citizenship document* )
 
 ![Apply New Domain](Apply_New_Domain.png) 
