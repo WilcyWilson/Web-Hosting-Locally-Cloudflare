@@ -15,5 +15,5 @@
 
 ![Name server](Name_Server.png)
 
-- Create and upload Cover letter asking for the permission of the domain and upload your Citizenship document. Both needs to be in jpg format
+- Create and upload Cover letter asking for the permission of the domain and upload your Citizenship document. Both needs to be in jpg format. Actually upload additional documents like Passport, NID and Voter ID Card just to be safe because they seem to have tighten their security and want all the documents that prove that its really you.
 
