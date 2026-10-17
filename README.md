@@ -12,4 +12,4 @@
 
 - Create and upload Cover letter asking for the permission of the domain and upload your Citizenship document. Both needs to be in jpg format. Actually upload additional documents like Passport, NID and Voter ID Card just to be safe because they seem to have tighten their security and want all the documents that prove that its really you.
 
-- [Download Cover Letter Example (DOCX)](Cover_Letter_Your_Name.docx) (Note: You would need to convert this to jpg after making the changes)
+- [Download Cover Letter Example (DOCX)](https://github.com/WilcyWilson/Web-Hosting-Locally-Cloudflare/raw/refs/heads/master/Cover_Letter_Your_Name.docx) (Note: You would need to convert this to jpg after making the changes)
